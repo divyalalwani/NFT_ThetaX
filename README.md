@@ -1,5 +1,5 @@
 # NFT_ThetaX
-# NFTs-for-artists
+## NFTs-for-interested-peeps
 Information and educational resources for artists interested in Non-Fungible Tokens / NFTs / crypto collectibles.
 
 DISCLAIMER: none of this should be interpreted as financial advise.
