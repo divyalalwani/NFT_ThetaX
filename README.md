@@ -77,21 +77,6 @@ I believe you could also agressively rotate wallets as a creator as a way to kee
 15. Finally click curate and approve the wallet operation.
 16. Sales and royalty fees will automatically appear in your wallet. Now you just need to promote your NFT to your fans.
 
-## Tezos / Market info
-
-- You can examine the growth of the Tezos platform here. Total (smart) contract calls is at an all time high and about 3x the volume of Feb. https://better-call.dev/stats/mainnet/general
-- Top arists on Hic Et Nunc - https://hashquine.github.io/hicetnunc/
-- Browse Hic et Nunc data -https://projects.stroep.nl/hicetnunc/#tags
-- Hic Et Nunc discord - https://discord.gg/CSs6e9uG
-- Hic Et Nunc github - https://github.com/hicetnunc2000/hicetnunc/
-- Multisig wallet for collaborations - https://medium.com/eosatticlab/tzsign-tezos-multisig-wallet-is-here-28ddcf40ec64
-
-## Alternative Platforms
-
-https://docs.google.com/spreadsheets/d/1A-7Ama31sYWhXDl6NoJaXnbAV9pFbjxLIgl7jb3CHOs/edit?fbclid=IwAR1nZAMrJcq7gPy1BP8OAa2X7ZH4X5pQKZ0jlqwMEAzODB-eRikSRIfZAb4#gid=0
-DOT - https://kodadot.xyz/
-https://zilliqa.mintable.app/
-https://epor.io/
 
 ## H=N API queries
 
