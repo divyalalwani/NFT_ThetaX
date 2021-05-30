@@ -90,7 +90,7 @@ Thanks to bors_nft for help with some of these queries. https://www.hicetnunc.xy
 ## Digital Art Links
 
 - Ongoing NFT discussion panel for artists - https://www.youtube.com/channel/UCo74_bEOow_-_FGn9WT263Q
-- My experiments - https://www.hicetnunc.xyz/tz/tz1cTS1WwovU7SC783xgJxZrzr151mcshmNi
+- Experiments by artists - https://www.hicetnunc.xyz/tz/tz1cTS1WwovU7SC783xgJxZrzr151mcshmNi
 - Joanie Lemercier - https://www.hicetnunc.xyz/tz/tz1P5Za1TUMsDejgzMM5iMNfHAxDUpPCHiwZ
 - Quasimondo - https://www.hicetnunc.xyz/tz/tz1hb9PiWxQEf6J9xevPsUM6dkuCLnhDMvsp
 - Exsstas - https://www.hicetnunc.xyz/tz/tz1Tk1MJDZ96bK85RLAqtKfnptZZyXsJ2jaq
